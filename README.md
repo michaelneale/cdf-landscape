@@ -1,5 +1,7 @@
 # Continuous Delivery Foundation Landscape
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/14404d80-60a4-4ec8-ad4d-92807de79369.svg?orgId=451115019187)](https://app.soluble.cloud/repos/details/github.com/michaelneale/cdf-landscape?orgId=451115019187)  
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/38f97d3e-ec09-4de5-aa53-49f9e5c3eabb/deploy-status)](https://app.netlify.com/sites/cdf-landscape/deploys)
 
 ![CDF Landscape Logo](https://github.com/cdfoundation/artwork/raw/master/cdf/stacked/color/cdf-stacked-color.png)
